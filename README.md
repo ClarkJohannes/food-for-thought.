@@ -6,7 +6,7 @@ My first Ep uploaded to GitHub. Use it for free on your game or whatever, with c
 
 02 - burnt ice cream
 
-03 - molded donut
+03 - mold donut
 
 04 - exposed cookies
 
