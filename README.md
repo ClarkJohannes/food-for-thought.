@@ -10,3 +10,5 @@ My first Ep uploaded to GitHub. Use it for free on your game or whatever, with c
 
 04 - exposed cookies
 
+album art
+
